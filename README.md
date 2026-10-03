@@ -1,20 +1,32 @@
-# Portfolio — Automation, BI & Analytics
+<div align="center">
 
-A selection of automation and business-intelligence work. Project details are described at a high level; proprietary/employer-confidential code is not shared.
+# 👋 Jithin J — Automation · BI · Analytics
+
+### AI-directed automation and business-intelligence work — turning manual, error-prone processes into tools and dashboards that drive decisions
+
+![Focus](https://img.shields.io/badge/Focus-Automation_·_BI_·_Analytics-2d5bd7?style=flat-square)
+![Built with](https://img.shields.io/badge/Builds-Vanilla_JS_·_Python_·_Power_BI-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Recognition](https://img.shields.io/badge/🏆_Strategic_Innovation_Award-Amazon_Payments_Europe-0a7a52?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jithin2k-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithin2k)
+
+</div>
 
 ---
 
-## ▶ Live demos
+A selection of automation and business-intelligence work. Project details are described at a high level; proprietary / employer-confidential code is not shared.
 
-Interactive, self-contained demos you can open right now (synthetic sample data — nothing from any employer):
+## ▶️ Live demos
 
-| Demo | What it shows | Link |
-|------|---------------|------|
-| **Compliance Audit & Exceptions Dashboard** | Case flagging, value-at-risk, filtering, trend, drill-down | [Open live ↗](https://jithinjolly2000-maker.github.io/compliance-audit-dashboard/) · [code](https://github.com/jithinjolly2000-maker/compliance-audit-dashboard) |
-| **Operations KPI & SLA Dashboard** | SLA attainment, handling-time cut, volume, automation coverage | [Open live ↗](https://jithinjolly2000-maker.github.io/ops-kpi-dashboard/) · [code](https://github.com/jithinjolly2000-maker/ops-kpi-dashboard) |
-| **Pharma Inventory Dashboard** | Role-based reorder / slow-moving / expiry decision view | [Open live ↗](https://jithinjolly2000-maker.github.io/pharma-inventory-dashboard/) · [code](https://github.com/jithinjolly2000-maker/pharma-inventory-dashboard) |
+Interactive, self-contained demos you can open right now — **synthetic sample data, nothing from any employer:**
 
-All three are single-file **vanilla HTML/CSS/JS**, no frameworks or build step, hosted free on GitHub Pages.
+| Demo | What it shows | Links |
+|------|---------------|-------|
+| 🛡️ **Compliance Audit & Exceptions Dashboard** | Case flagging, value-at-risk, filtering, trend, drill-down | [▶ Live](https://jithinjolly2000-maker.github.io/compliance-audit-dashboard/) · [Code](https://github.com/jithinjolly2000-maker/compliance-audit-dashboard) |
+| 📊 **Operations KPI & SLA Dashboard** | SLA attainment, handling-time cut, volume, automation coverage | [▶ Live](https://jithinjolly2000-maker.github.io/ops-kpi-dashboard/) · [Code](https://github.com/jithinjolly2000-maker/ops-kpi-dashboard) |
+| 🔄 **CSV Reconciliation Tool** | Match two files; surface mismatches & one-sided rows; export | [▶ Live](https://jithinjolly2000-maker.github.io/csv-reconciliation-tool/) · [Code](https://github.com/jithinjolly2000-maker/csv-reconciliation-tool) |
+| 💊 **Pharma Inventory Dashboard** | Role-based reorder / slow-moving / expiry decision view | [▶ Live](https://jithinjolly2000-maker.github.io/pharma-inventory-dashboard/) · [Code](https://github.com/jithinjolly2000-maker/pharma-inventory-dashboard) |
+
+All are single-file **vanilla HTML / CSS / JS** — no frameworks or build step, hosted free on GitHub Pages.
 
 ---
 
