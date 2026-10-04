@@ -28,6 +28,21 @@ Interactive, self-contained demos you can open right now — **synthetic sample 
 
 All are single-file **vanilla HTML / CSS / JS** — no frameworks or build step, hosted free on GitHub Pages.
 
+## 🛠️ Tools (real, use them on your own data)
+
+Not demos — working tools that take **your** input and do real work. Everything runs client-side, so your data never leaves your browser.
+
+| Tool | What it does | Links |
+|------|--------------|-------|
+| 🔍 **CSV Profiler** | Column types, missing values, duplicates, ranges, top values | [▶ Open](https://jithinjolly2000-maker.github.io/csv-profiler/) · [Code](https://github.com/jithinjolly2000-maker/csv-profiler) |
+| 🔗 **CSV Joiner** | Merge two CSVs on a key (inner / left / full-outer join) | [▶ Open](https://jithinjolly2000-maker.github.io/csv-joiner/) · [Code](https://github.com/jithinjolly2000-maker/csv-joiner) |
+| 🔁 **JSON ↔ CSV Converter** | Convert both ways; flattens nested objects, coerces types | [▶ Open](https://jithinjolly2000-maker.github.io/json-csv-converter/) · [Code](https://github.com/jithinjolly2000-maker/json-csv-converter) |
+| 🧾 **EU VAT Calculator** | Add / remove VAT for all 27 EU countries + UK | [▶ Open](https://jithinjolly2000-maker.github.io/vat-calculator/) · [Code](https://github.com/jithinjolly2000-maker/vat-calculator) |
+| 📄 **Invoice Data Extractor** | Pull invoice #, dates, VAT numbers & amounts from text | [▶ Open](https://jithinjolly2000-maker.github.io/invoice-extractor/) · [Code](https://github.com/jithinjolly2000-maker/invoice-extractor) |
+| 💰 **Loan / EMI Calculator** | EMI, total interest & full amortization schedule (CSV export) | [▶ Open](https://jithinjolly2000-maker.github.io/loan-calculator/) · [Code](https://github.com/jithinjolly2000-maker/loan-calculator) |
+| 🔤 **Regex Tester** | Live match highlighting, capture groups, presets, cheat-sheet | [▶ Open](https://jithinjolly2000-maker.github.io/regex-tester/) · [Code](https://github.com/jithinjolly2000-maker/regex-tester) |
+| 📝 **README Builder** | Form-driven README.md generator with badges & live preview | [▶ Open](https://jithinjolly2000-maker.github.io/readme-builder/) · [Code](https://github.com/jithinjolly2000-maker/readme-builder) |
+
 ---
 
 ## 🔹 Multi-Country Validation Automation
