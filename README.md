@@ -46,6 +46,16 @@ Not demos — working tools that take **your** input and do real work. Everythin
 | 🔤 **Regex Tester** | Live match highlighting, capture groups, presets, cheat-sheet | [▶ Open](https://jithinjolly2000-maker.github.io/regex-tester/) · [Code](https://github.com/jithinjolly2000-maker/regex-tester) |
 | 📝 **README Builder** | Form-driven README.md generator with badges & live preview | [▶ Open](https://jithinjolly2000-maker.github.io/readme-builder/) · [Code](https://github.com/jithinjolly2000-maker/readme-builder) |
 
+## 🗄️ SQL
+
+Analyst SQL on a realistic compliance / payments dataset — from `SELECT` to window functions. Run it, read it, or learn it.
+
+| | What it is | Links |
+|--|------------|-------|
+| 📊 **SQL Analytics Project** | A schema + **17 graded, commented queries** (JOINs, CTEs, window functions) + a study guide | [Code / study guide](https://github.com/jithinjolly2000-maker/sql-analytics-project) |
+| 🗄️ **SQL Playground** | A **real SQLite database in your browser** (SQL.js/WASM) — query the dataset live | [▶ Open](https://jithinjolly2000-maker.github.io/sql-playground/) · [Code](https://github.com/jithinjolly2000-maker/sql-playground) |
+| 🎮 **SQL Quest** | Learn SQL by solving **10 progressive challenges**, auto-checked in-browser | [▶ Play](https://jithinjolly2000-maker.github.io/sql-quest/) · [Code](https://github.com/jithinjolly2000-maker/sql-quest) |
+
 ---
 
 ## 🔹 Multi-Country Validation Automation
