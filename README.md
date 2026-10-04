@@ -41,6 +41,8 @@ Not demos — working tools that take **your** input and do real work. Everythin
 | 🧾 **EU VAT Calculator** | Add / remove VAT for all 27 EU countries + UK | [▶ Open](https://jithinjolly2000-maker.github.io/vat-calculator/) · [Code](https://github.com/jithinjolly2000-maker/vat-calculator) |
 | 📄 **Invoice Data Extractor** | Pull invoice #, dates, VAT numbers & amounts from text | [▶ Open](https://jithinjolly2000-maker.github.io/invoice-extractor/) · [Code](https://github.com/jithinjolly2000-maker/invoice-extractor) |
 | 💰 **Loan / EMI Calculator** | EMI, total interest & full amortization schedule (CSV export) | [▶ Open](https://jithinjolly2000-maker.github.io/loan-calculator/) · [Code](https://github.com/jithinjolly2000-maker/loan-calculator) |
+| 📈 **Options Toolkit** | Multi-leg payoff calculator + chart, and Black-Scholes pricer with Greeks | [▶ Open](https://jithinjolly2000-maker.github.io/options-toolkit/) · [Code](https://github.com/jithinjolly2000-maker/options-toolkit) |
+| 📉 **Stock Trade Calculator** | Position sizing, cost-basis, risk-reward, Indian brokerage & charges | [▶ Open](https://jithinjolly2000-maker.github.io/stock-trade-calculator/) · [Code](https://github.com/jithinjolly2000-maker/stock-trade-calculator) |
 | 🔤 **Regex Tester** | Live match highlighting, capture groups, presets, cheat-sheet | [▶ Open](https://jithinjolly2000-maker.github.io/regex-tester/) · [Code](https://github.com/jithinjolly2000-maker/regex-tester) |
 | 📝 **README Builder** | Form-driven README.md generator with badges & live preview | [▶ Open](https://jithinjolly2000-maker.github.io/readme-builder/) · [Code](https://github.com/jithinjolly2000-maker/readme-builder) |
 
